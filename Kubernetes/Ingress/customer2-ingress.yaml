@@ -1,0 +1,13 @@
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: customer2-ingress
+  namespace: customer-2
+spec:
+  rules:
+  - host: cust2.example.com
+    http:
+      paths:
+      - backend:
+          serviceName: wpweb-service
+          servicePort: 80
