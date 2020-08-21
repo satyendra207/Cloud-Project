@@ -14,8 +14,8 @@ spec:
     spec:
       containers:
       - name: wpweb-deployment
-        #image: gcr.io/kubernetes-learning-praveen/wordpress:latest
-        image : wordpress:latest
+        image: gcr.io/kubernetes-learning-praveen/wordpress:latest
+        #image : wordpress:latest
         ports:
         - containerPort: 80
         env:
