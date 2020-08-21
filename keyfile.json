@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kubernetes-learning-praveen",
+  "private_key_id": "6af4062885d4c99ca0d59e4865522e8cebfb2966",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5xmOhHbawpF9I\nVqxvPm7cxhnS3yw9dB1/NUmQupy7xKUBbDHw9TfLxpIwTxuyZRPTNW9PHZCtI9ek\n1Poq0qa9FslNk5S/5SWjTql5sBz70rBmNoXZrMNOJLLlIjgUORKeAVRMEHB7W5k/\nmdrVoNyGyhAscON7PgXA1CVYcd+wfKXjU8YFZORx0B5eJWR40bPeu6GXSrwfwaTT\nsiHxAByTEa3IhcKOgInUIPsyOdZfyCVk8hnsuAugg8T9W+YNU4ATr7aPDcAVR4eu\n6qTOBYZ0pNzCyEO3odiX7Dq2utOXgXIuKdBJN1lL99cw/iU9b/kR56wsa+Lcv4DF\nTPkpEn4VAgMBAAECggEAJPhmeNiLNBWOEb0P9VaBJQX2eyjnKraqLRfbc0Yz7Ukp\nxkH0IV4Hk9HJY3xGyIaFfr2OUHoTgeVVY6vvuihwPsajWoEhc9vkFN8RapJh/jp0\nWO8GTaasOmeiw2c/LkUaX5/nmPiXjfERax8Q9f0cjeV1+QYhOzRBXFnLsdF9oOci\nVgNS9AE9JbOBTt6OI74ODgYSOeFJ4wNatrOXv23URypDHLY6IFGsChwuYc4fEIdg\nplFgB1ftGo1Ym0kxGwb4blyFZv+G6zb3MlCp2IGvX92OatmTOKvLLdFyY1G2DZvT\nA96jZX7n+ZnVAe1nEwv5FoQmlcV7maM2C7g1CutJ+QKBgQDtdoPvXjqll7LCPzyA\ng6j3qbJ33zmaV1DWs9WERwjIHt/VOCTEnog9VTW5JH14WSiZHhJAAo+bIlBo7mt0\nqYM/w40uljobluo7c5B9KkQJQAJ3VHwc/ePPPVXgZhCXJncFEQE05lHqsnp5dQ4q\nXlvwwgxeWc54wG5OZ9uYMUjV6QKBgQDIRu99eWR4c/wKToBya6SQzpZSSYYUDUNn\npdXJQOcqqjYrKUnFCc9WPZ7R4IB38T+5Ezn1fQs/eeDgobShzyQFierR+x1l+Nf/\nU6PqZ7nvN4LkTTV21uPv7se25wl+7AaNVI6dtaxtLme9AX9rkw0Z2GcToC2X5s3B\ndU+kXCWPTQKBgQDrowRvHnlh4vPPD8Mw3/Vmta1UiF13y5d7Rn7lQTv0obaJtam+\ntnYJLqod65jaONcxggaoICJy1g0m4xgcby2/s4RAq3BD+nC6yAWkPrG+4BbSZTK3\n7jUGbB3wjDeAVfobO/GPldHJ7IveRIrm/jWL5nMxmTpq1sFe6m6dSqK1KQKBgB75\nmaC2XaujhJ+zdHo9273ptaYUaQBA7OPi6iWuPBKFMMuMHzSyR7b24NFk/3mNfmWJ\na7VkGZE/sGANonpEJzYUFpVTWUCkNAPxU7C1SjSNSVk198bhhW9eZtUK9pUCvCCv\nqz8JEhnwy2qYCLUCkUwmBAstAuAzei8pjZ/GAKkhAoGASzGcI6yqPEjc0HJ5X8SD\nA9bTSsBGOpWSeKAYgcVI8s6rHCbV1CPCoWlve6ZeBnLR/VygwQW73GL26Lz+rZzV\nw3HdaXy+3Mrk2AECo5D2KXSfMBajJYDwLwumtkQqRD1xsQnskkqj63gZM5/w7gTj\nX+ocPeJhlmhyUxZ3rHXxzMw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-image-pull@kubernetes-learning-praveen.iam.gserviceaccount.com",
+  "client_id": "101166913237066610726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-image-pull%40kubernetes-learning-praveen.iam.gserviceaccount.com"
+}
+
