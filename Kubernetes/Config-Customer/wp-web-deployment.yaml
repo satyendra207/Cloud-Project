@@ -12,10 +12,11 @@ spec:
       labels:
         app: wpweb-deployment
     spec:
+      imagePullSecrets:
+      - name: gcr-json-key 
       containers:
       - name: wpweb-deployment
-        #image: gcr.io/kubernetes-learning-praveen/wordpress:latest
-        image : wordpress:latest
+        image: gcr.io/kubernetes-learning-praveen/wordpress:1.0.0
         ports:
         - containerPort: 80
         env:
